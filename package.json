@@ -1,0 +1,21 @@
+{
+  "name": "hotel-rest-api",
+  "version": "1.0.0",
+  "description": "REST API made in node for HOTELS with a view that Updates, deletes and creates new hotels.",
+  "main": "server.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlejoCode/HotelsREST-API.git"
+  },
+  "author": "AlejoCode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlejoCode/HotelsREST-API/issues"
+  },
+  "homepage": "https://github.com/AlejoCode/HotelsREST-API#readme"
+}
